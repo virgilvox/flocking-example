@@ -1,0 +1,23 @@
+{
+  "name": "flocking-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgilvox/flocking-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgilvox/flocking-example/issues"
+  },
+  "homepage": "https://github.com/virgilvox/flocking-example#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.4",
+    "flocking": "^0.1.6"
+  }
+}
